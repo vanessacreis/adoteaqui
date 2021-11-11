@@ -96,8 +96,6 @@ a{
 .container{
     max-width: 100%;
     margin-top: 25px;
-    /* border: 2px solid gray;
-    border-radius: 2px; */
     display: flex;
     justify-content: space-around;
     align-items: center;
